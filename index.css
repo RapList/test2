@@ -1,0 +1,36 @@
+#center{
+    text-align: center;
+}
+ul{
+    display:inline-block;
+}
+.container-fluid{
+    font-size: 1.5rem;
+    color: aliceblue;
+    padding-left: 1rem;
+}
+.navbar-nav a{
+    color:aliceblue;
+}
+.navbar-nav p{
+    color:rgb(191, 193, 194);
+}
+img{
+    border-radius: 15px;
+    border: 1px solid white;
+    align-content: flex-end;
+}
+section h1{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+i{
+    font-size: 1.5rem;
+}
+.btn-group{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+#selected{
+    color: rgb(18, 184, 175);
+}
